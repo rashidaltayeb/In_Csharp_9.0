@@ -1,0 +1,16 @@
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/TopLevelStatemnet
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/TopLevelStatemnet.deps.json
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/TopLevelStatemnet.runtimeconfig.json
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/TopLevelStatemnet.runtimeconfig.dev.json
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/TopLevelStatemnet.dll
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/ref/TopLevelStatemnet.dll
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/bin/Debug/net5.0/TopLevelStatemnet.pdb
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.csprojAssemblyReference.cache
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.AssemblyInfoInputs.cache
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.AssemblyInfo.cs
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.csproj.CoreCompileInputs.cache
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.dll
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/ref/TopLevelStatemnet.dll
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.pdb
+/home/code4life/RiderProjects/ConsoleApp5/TopLevelStatemnet/obj/Debug/net5.0/TopLevelStatemnet.genruntimeconfig.cache

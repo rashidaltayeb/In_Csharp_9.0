@@ -1,0 +1,16 @@
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/InitOnlySetter
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/InitOnlySetter.deps.json
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/InitOnlySetter.runtimeconfig.json
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/InitOnlySetter.runtimeconfig.dev.json
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/InitOnlySetter.dll
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/ref/InitOnlySetter.dll
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/bin/Debug/net5.0/InitOnlySetter.pdb
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.csprojAssemblyReference.cache
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.AssemblyInfoInputs.cache
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.AssemblyInfo.cs
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.csproj.CoreCompileInputs.cache
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.dll
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/ref/InitOnlySetter.dll
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.pdb
+/home/code4life/RiderProjects/ConsoleApp5/InitOnlySetter/obj/Debug/net5.0/InitOnlySetter.genruntimeconfig.cache

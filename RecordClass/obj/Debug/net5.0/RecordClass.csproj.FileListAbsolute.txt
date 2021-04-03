@@ -1,0 +1,16 @@
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/RecordClass
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/RecordClass.deps.json
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/RecordClass.runtimeconfig.json
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/RecordClass.runtimeconfig.dev.json
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/RecordClass.dll
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/ref/RecordClass.dll
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/bin/Debug/net5.0/RecordClass.pdb
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.csprojAssemblyReference.cache
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.AssemblyInfoInputs.cache
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.AssemblyInfo.cs
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.csproj.CoreCompileInputs.cache
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.dll
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/ref/RecordClass.dll
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.pdb
+/home/code4life/RiderProjects/ConsoleApp5/RecordClass/obj/Debug/net5.0/RecordClass.genruntimeconfig.cache

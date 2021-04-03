@@ -1,0 +1,1 @@
+﻿System.Console.WriteLine("I'm Running Without Main Method");
